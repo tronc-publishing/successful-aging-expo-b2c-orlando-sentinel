@@ -1,7 +1,6 @@
 <?php
 	//*** Send Email to User ***//
-	$email = 'blair.mcclenny@gmail.com';
-	// $email = 'sae@orlandosentinel.com'; //$_REQUEST['email'];
+	$email = 'sae@orlandosentinel.com'; //$_REQUEST['email'];
 	$subject = '[IMPORTANT] - New contact request from successfulagingorlando.com';
 
 	$headers = 'From: info@successfulagingorlando.com' . "\r\n";
@@ -43,8 +42,7 @@
 	$today = date('F j, Y, g:i a T');
     $ranNum = mt_rand(100000, 999999);
 
-	// $survey_info = '../csv/contact-requests-b2c' . '.csv';
-	$survey_info = '../csv/contact-requests-b2c-test' . '.csv';
+	$survey_info = '../csv/contact-requests-b2c' . '.csv';
 
 	$sep_0 = '"';
 	$sep_1 = '","';

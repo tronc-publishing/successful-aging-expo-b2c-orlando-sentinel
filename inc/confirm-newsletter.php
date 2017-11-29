@@ -9,8 +9,7 @@
 	$today = date('F j, Y, g:i a T');
     $ranNum = mt_rand(100000, 999999);
 
-	// $survey_info = '../csv/newsletter-requests' . '.csv';
-	$survey_info = '../csv/newsletter-test' . '.csv';
+	$survey_info = '../csv/newsletter-requests' . '.csv';
 
 	$sep_0 = '"';
 	$sep_1 = '","';
