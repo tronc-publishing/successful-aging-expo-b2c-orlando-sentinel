@@ -10,7 +10,7 @@
                   <h3 class="mb3"><strong class="mdBold">Sunday, February  18, 2018</strong></h3>
                   <h5 class="mb15"><strong class="mdBold">9AM - 4PM</strong></h5>
                   <h3 class="mb2"><strong class="mdBold">Orange County Convention Center</strong></h3>
-                  <!-- <h3 class="mb4"><strong class="mdBold">West Concourse</strong></h3> -->
+                  <h3 class="mb4"><strong class="mdBold">West Concourse</strong></h3>
                   <h5 class="mb20"><strong class="mdBold">9800 International Drive,<br>Orlando, FL 32819</strong></h5>
                   <!-- <a class="clearBtn" href="https://goo.gl/maps/TTyCHhb8JEx" target="_blank" rel="nofollow">View Map</a> -->
                 </div>
@@ -50,16 +50,7 @@
 
           </section>
 
-          <!-- <section id="leaderboard">
-            <div class="pt50 pb50">
-              <div class="container clearfix">
-                <div class="col_12 txtCenter">
-                  <img src="./images/ad_leaderboard.jpg" alt="">
-                </div>
-              </div>
-            </div>
-          </section> -->
-          <!-- END #leaderboard -->
+          <?php include './inc/ad-leaderboard.php' ?>
 
           <section id="formsCon">
               <div class="sectionBlk pAll0">

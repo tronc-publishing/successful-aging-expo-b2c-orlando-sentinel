@@ -47,11 +47,11 @@
             <img src="images/sponsors/sponsor_labelle-furs.png" alt="Certus" />
           </a>
         </div>
-        <div>
+        <!-- <div>
           <a href="https://www.huntervision.com/" target="_blank" style="border:none;" rel="nofollow">
             <img src="images/sponsors/sponsor_hunter-vision.png" alt="Certus" />
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

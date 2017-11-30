@@ -91,15 +91,7 @@
             </div>
           </section>
 
-          <section id="leaderboard">
-            <div class="pt50 pb50">
-              <div class="container clearfix">
-                <div class="col_12 txtCenter">
-                  <img src="./images/ad_leaderboard.jpg" alt="">
-                </div>
-              </div>
-            </div>
-          </section><!-- END #leaderboard -->
+          <?php include './inc/ad-leaderboard.php' ?>
 
           <section id="formsCon">
               <div class="sectionBlk pAll0">

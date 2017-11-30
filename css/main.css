@@ -572,7 +572,8 @@ a.open .hamNav span:nth-child(4) {
     background-image: url('../images/hero_mainBkgrdIMG-B2C.jpg');
 }
 .home-heroTxt {
-    padding-top: 170px;
+  padding-top: 135px;
+  padding-bottom: 10px;
 }
 .schedule-heroTxt, .entertainment-heroTxt, .exhibitors-heroTxt {
     padding-top: 240px;
@@ -594,22 +595,22 @@ a.open .hamNav span:nth-child(4) {
     line-height: 30px;
     letter-spacing: -0.5px;
 }
-/*#home.home-center h6.heroDateTxt {
-    width: 310px;
-    background: #fff;
+#home.home-center h6.heroDateTxt {
+  width: 310px;
+  background: #fff;
 	font-family: 'Raleway';
 	font-weight: 600;
-    color: #21418d;
-    font-size: 19px;
-    border-radius: 2px;
-    padding: 8px 0;
-    margin: 0 auto;
-}*/
+  color: #21418d;
+  font-size: 19px;
+  border-radius: 2px;
+  padding: 8px 0;
+  margin: 20px auto 0;
+}
 .divLine {
     background: #fff;
     width: 80px;
     height: 1px;
-    margin: 23px auto 21px auto;
+    margin: 16px auto 14px auto;
     display: block;
 }
 #about iframe, #about .BrightcoveExperience {

@@ -7,9 +7,18 @@
               <div class="des-column col_12 txtCenter">
                 <div class="home-heroTxt">
                   <h3 class="txtCaps mb5">ORLANDO SENTINEL INVITES YOU TO OUR</h3>
-                  <h1 class="txtCaps mb8">FREE SUCCESSFUL<br>AGING EXPO</h1>
+                  <!-- <h1 class="txtCaps mb8">FREE SUCCESSFUL<br>AGING EXPO</h1> -->
+                  <h1 class="txtCaps mb8">FREE SUCCESSFUL AGING EXPO</h1>
                   <div class="divLine"></div>
-                  <h4>Health &amp; Wellness • Financial Planning • Medicare<br>Travel • Home Improvement • Assisted Living<br>&amp; <a class="colorWHT section-link" href="#about"><strong class="underline">MUCH MORE</strong></a>!</h4>
+                  <!-- <h4>Health &amp; Wellness • Financial Planning • Medicare<br>Travel • Home Improvement • Assisted Living<br>&amp; <strong class="underline">MUCH MORE</strong>!</h4> -->
+                  <h4>Health &amp; Wellness • Financial Planning • Medicare Travel • Home Improvement • Assisted Living<br>&amp; <strong class="underline">MUCH MORE</strong>!</h4>
+                  <h6 class="heroDateTxt txtCaps mb20">Sunday, February 18, 2018</h6>
+                  <h4 class="mb10">
+                    Orange County Convention Center<br>
+                    West Concourse<br>
+                    9800 International Drive,<br>
+                    Orlando, FL 32819<br>
+                  </h4>
                 </div>
               </div>
             </div>
@@ -68,16 +77,7 @@
             </div>
           </section><!-- END #about -->
 
-          <!-- <section id="leaderboard">
-            <div class="pt50 pb50">
-              <div class="container clearfix">
-                <div class="col_12 txtCenter">
-                  <img src="./images/ad_leaderboard.jpg" alt="advertisement">
-                </div>
-              </div>
-            </div>
-          </section> -->
-          <!-- END #leaderboard -->
+          <?php include './inc/ad-leaderboard.php' ?>
 
           <section id="location">
             <div class="sectionBlk">
@@ -87,7 +87,7 @@
                   <h3 class="mb3"><strong class="mdBold">Sunday, February  18, 2018</strong></h3>
                   <h5 class="mb15"><strong class="mdBold">9AM - 4PM</strong></h5>
                   <h3 class="mb2"><strong class="mdBold">Orange County Convention Center</strong></h3>
-                  <!-- <h3 class="mb4"><strong class="mdBold">West Concourse</strong></h3> -->
+                  <h3 class="mb4"><strong class="mdBold">West Concourse</strong></h3>
                   <h5 class="mb20"><strong class="mdBold">9800 International Drive,<br>Orlando, FL 32819</strong></h5>
                   <a class="clearBtn" href="https://goo.gl/maps/TTyCHhb8JEx" target="_blank" rel="nofollow">View Map</a>
                 </div>

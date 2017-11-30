@@ -67,7 +67,7 @@
           <div class="container flex alpha omega clearfix">
             <nav id="mainNav" class="clearfix" role="navigation">
               <div class="logo">
-                <a href="index.html"><img src="images/successful-aging-expo-orlando-sentinel-logo.png" alt="Orlando Sentinel Successful Aging Expo - Logo" /></a>
+                <a href="index.php"><img src="images/successful-aging-expo-orlando-sentinel-logo.png" alt="Orlando Sentinel Successful Aging Expo - Logo" /></a>
               </div>
               <div class="subMenu">
                 <ul>
