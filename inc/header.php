@@ -4,7 +4,13 @@
     $pages = ['index', 'schedule', 'entertainment', 'exhibitors', 'location', 'contact-us'];
 
     foreach($pages as $page) {
-      $title = $page == 'index' ? 'Home' : ucwords($page);
+      if ($page == 'index') {
+        $title = 'Home';
+      } else if ($page == 'contact-us') {
+        $title = 'Contact Us';
+      } else {
+        $title = ucwords($page);
+      }
       $class = $page == basename($_SERVER['PHP_SELF'], '.php') ? 'active' : '';
 
       switch($navType) {
