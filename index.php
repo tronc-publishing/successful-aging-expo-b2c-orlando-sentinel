@@ -8,10 +8,10 @@
                 <div class="home-heroTxt">
                   <h3 class="txtCaps mb5">ORLANDO SENTINEL INVITES YOU TO OUR</h3>
                   <!-- <h1 class="txtCaps mb8">FREE SUCCESSFUL<br>AGING EXPO</h1> -->
-                  <h1 class="txtCaps mb8">FREE SUCCESSFUL AGING EXPO</h1>
-                  <div class="divLine"></div>
+                  <h1 class="txtCaps mb8">FREE SUCCESSFUL<br>AGING EXPO</h1>
+                  <!-- <div class="divLine"></div> -->
                   <!-- <h4>Health &amp; Wellness • Financial Planning • Medicare<br>Travel • Home Improvement • Assisted Living<br>&amp; <strong class="underline">MUCH MORE</strong>!</h4> -->
-                  <h4>Health &amp; Wellness • Financial Planning • Medicare Travel • Home Improvement • Assisted Living<br>&amp; <strong class="underline">MUCH MORE</strong>!</h4>
+                  <!-- <h4>Health &amp; Wellness • Financial Planning • Medicare Travel • Home Improvement • Assisted Living<br>&amp; <strong class="underline">MUCH MORE</strong>!</h4> -->
                   <h6 class="heroDateTxt txtCaps mb20">Sunday, February 18, 2018</h6>
                   <h4 class="mb10">
                     Orange County Convention Center<br>

@@ -239,4 +239,15 @@ jQuery(document).ready(function () {
   };
 
 
+
+
+  /*-- Ad Event Tracking --*/
+  jQuery('#adLeaderboard').click(function(){
+    ga('send', 'event', 'flammia-law-ad', 'flammia-law-leaderboard');
+
+  });
+
+
+
+
 });
